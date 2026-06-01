@@ -13,7 +13,7 @@ body{
     height:100vh;
 }
 
-.container{
+#container{
     width:450px;
     background:white;
     padding:25px;
